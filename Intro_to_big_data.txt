@@ -1,0 +1,16 @@
+NoSQL in the unstructurized method of organization data storage, in which the constraints that presented in relation-based data-storage are excluded.
+NoSQL got dofferent kind of advantage, such as: High scalability and flexibility, higher performance, potential integration with Big Data. Higher availability makes NoSQL systems more dymanic in terms of queries, it means that every query will be completed with positive or negative result. NoSQL also requires data consistency, however it allows the the fact that the data can be inconsistent at some points, butt eventually it must be. 
+
+
+Precision is the overall parameter of ML algorithm evaluation and represents the positively predicted instances over the all positive instances (False Pos + True Pos). 
+Recall is the part or fraction of interested instances (values) over the overall solved or retrived by model prediction (true Pos/(True Pos + False Neg)). 
+Accuracy is the ralation between all true values (true negative and true positive) and all retrieved values (true and negative)/
+
+Data preparation is the number of actions that are affect unprepared data to make it possible to use the different ML algorithm. 1 step is to define what type of data do we need to get the best result, and what is the amount of those data. 2 step is to pre-process the data format, deletion of unneccesery data. 3 step is transform the data into needed condition, it means decomposition of elements which are not simple enough and potentially won't give the correct prediction.
+
+
+Clusterization is more appropriate when it is possible to divide into segments the input data or group them, and it uses unsupervised approach. Cluterization do not need any training sessions and by the time it is simple conmpare to the classification. Classification is used for supervised learning whereas clustering is used for unsupervised learning.
+The process of classifying the input instances based on their corresponding class labels is known as classification whereas grouping the instances based on their similarity without the help of class labels is known as clustering.
+As Classification have labels so there is need of training and testing dataset for verifying the model created but there is no need for training and testing dataset in clustering.
+Classification is more complex as compared to clustering as there are many levels in the classification phase whereas only grouping is done in clustering.
+Classification examples are Logistic regression, Naive Bayes classifier, Support vector machines, etc. Whereas clustering examples are k-means clustering algorithm, Fuzzy c-means clustering algorithm, Gaussian (EM) clustering algorithm, etc.
